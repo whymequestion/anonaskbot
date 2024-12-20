@@ -1,3 +1,6 @@
+blocked_users.json
+messages.json
+user_states.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
